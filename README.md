@@ -1,16 +1,38 @@
-## Hi there 👋
+# Shrey Jain
 
-<!--
-**SJ-Jain-systems/SJ-Jain-Systems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science & Economics @ University of Virginia, My work focuses on statistical learning, economic reasoning, and decision systems under uncertainty.  
+I care about bias–variance tradeoffs, model diagnostics, and interpretability — not just accuracy.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+Machine Learning  
+Econometrics  
+Bayesian Methods  
+Optimization  
+Prediction Systems  
+
+---
+
+## Selected Work
+
+• Regression & kNN model analysis  
+• Overfitting diagnostics (polynomial sweeps, cross-validation)  
+• SQL schema design & relational modeling  
+• Behavioral segmentation & A/B testing (startup analytics)  
+
+Revenue impact: $50k+ through data-driven experimentation.
+
+---
+
+## Tools
+
+Python · R · SQL  
+scikit-learn · pandas · NumPy  
+Tableau · SQLAlchemy  
+
+---
+
+> Accurate models matter.  
+> Principled models matter more.
