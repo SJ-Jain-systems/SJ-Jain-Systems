@@ -1,10 +1,5 @@
 # Hi!
-
 Data Science & Economics @ University of Virginia, My work focuses on statistical learning, economic reasoning, and decision systems under uncertainty.  
----
-## Focus on
+Currently, heavily focused on Machine Learning, Econometrics, Bayesian Methods, Optimization, and exploring the Field of Data Science
 
-Machine Learning, Econometrics, Bayesian Methods, Optimization, Learning 
----
-> Accurate models matter.  
-> Principled models matter more.
+> Accurate models matter. Principled models matter more.
