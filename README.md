@@ -3,4 +3,4 @@ Data Science & Economics @ University of Virginia, My work focuses on statistica
 
 > Accurate models matter. Principled models matter more.
 
-Interests: Table Tennis Player (1910 elo) and Federal Reserve Simulator Enthusiast
+Interests: Table Tennis (1910 elo), NCAA FolkStyle Wrestling, Federal Reserve Simulator Enthusiast
