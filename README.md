@@ -1,5 +1,5 @@
 # Hi!
-Data Science & Economics @ University of Virginia, My work focuses on statistical learning, economic reasoning, and decision systems under uncertainty. Currently focused on Machine Learning, Econometrics, Bayesian Methods, Optimization, and exploring the Field of Data Science.
+Data Science & Economics @ University of Virginia, My work focuses on statistical learning, economic reasoning, and decision systems under uncertainty. Currently focused on Machine Learning, Bayesian Methods, and exploring the Field of Data Science.
 ## Projects
 - **GRID for Dominion Energy** is a DER adoption and campaign planning prototype that helps utilities identify which households to target, what energy technologies to recommend, and how to reduce adoption barriers. The platform combines household scoring, campaign segmentation, utility savings modeling, and a future open-bidding layer for DER installation contracts.
 - **Cardiac Arrest Risk Modeling** is a clinical machine learning project that models cardiac arrest risk using patient healthcare data. The project combines exploratory data analysis, feature engineering, predictive modeling, model comparison, SHAP based interpretability, and subgroup robustness checks to identify which clinical factors are most associated with cardiac arrest outcomes.
