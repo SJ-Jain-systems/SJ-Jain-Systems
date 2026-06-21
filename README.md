@@ -7,4 +7,5 @@ Data Science & Economics @ University of Virginia, My work focuses on statistica
 - **Bayesian Market Signal Analytics** is a financial data science project that analyzes large cap technology stocks through SQL based feature engineering, risk modeling, and Bayesian uncertainty estimation. The project uses historical OHLCV data to model returns, volatility, drawdowns, downside risk, market regimes, and portfolio tradeoffs with posterior diagnostics rather than single point estimates.
 ## Personal Interests
 Natural Language Processing, Table Tennis (1910 elo), NCAA FolkStyle Wrestling, Federal Reserve Simulator Enthusiast, Currently reading *If Cats Disappeared from the World* by Genki Kawamura
-
+## Contact Me
+Email: shreyansjain.contact@gmail.com
